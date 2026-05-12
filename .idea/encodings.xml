@@ -1,10 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/String.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/arithematic.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/factorial.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/main.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/multi_line.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/numbers.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/prime_or_not.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/print_name.dart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/swap_two.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/variable_and_print.dart" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/variable_name.dart" charset="UTF-8" />
   </component>
