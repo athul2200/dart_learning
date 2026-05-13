@@ -12,7 +12,7 @@ It includes basic concepts, exercises, and small programs to improve my understa
 * `main.dart` → Entry point of Dart programs
 * `arithmetic.dart` → Basic arithmetic operations
 * `numbers.dart` → Number-related programs
-* `print_name.dart` → Simple printing program
+* `print_name.dart` → Simple name printing program
 * `string_property.dart` → String operations and properties
 * `user_input.dart` → Taking input from user
 * `variable_and_print.dart` → Variables and output
@@ -20,20 +20,29 @@ It includes basic concepts, exercises, and small programs to improve my understa
 
 ---
 
-### 📁 Folders
+### 📁 dart_exercise/
+
+This folder contains practice problems:
+
+* `factorial.dart` → Program to find factorial of a number
+* `prime_or_not.dart` → Check whether a number is prime
+* `swap_two.dart` → Swap two numbers
+
+---
+
+### 📁 Other Folders
 
 * `.idea/` → IDE configuration files
-* `dart_exercise/` → Collection of Dart exercises
 
 ---
 
 ## 🚀 Topics Covered
 
 * Variables and Data Types
-* Input & Output
+* User Input Taken
 * Arithmetic Operations
 * Strings and their Properties
-* Basic Dart Syntax
+* Basic Problem Solving
 
 ---
 
@@ -53,40 +62,13 @@ This repository is created for:
 
 ---
 
-## 📖 How to Run
-
-1. Install Dart SDK
-2. Clone the repository:
-
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-3. Navigate to the project folder:
-
-   ```bash
-   cd your-repo-name
-   ```
-4. Run any Dart file:
-
-   ```bash
-   dart filename.dart
-   ```
-
----
-
 ## ✨ Future Improvements
 
-* Add more advanced Dart programs
+* Add more problem-solving programs
 * Include OOP concepts
-* Build small projects using Dart
 
 ---
 
-## 🙌 Author
-
-* Your Name (update this)
-
----
 
 ## ⭐ Support
 
