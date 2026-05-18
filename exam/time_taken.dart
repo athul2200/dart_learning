@@ -1,0 +1,8 @@
+void main(){
+  double distance=25;
+  double speed=40;
+
+  double time=distance/speed;
+
+  print("Time taken is : $time");
+}
